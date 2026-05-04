@@ -2,4 +2,8 @@
 i am a boy
 i am hungry
 this is a test
+<<<<<<< HEAD
 I made a decision
+=======
+I am rich
+>>>>>>> 8521c79 (옐로브릿지는 원격으로 푸싀가 될말?)
